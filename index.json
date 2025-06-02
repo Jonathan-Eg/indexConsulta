@@ -1,0 +1,7 @@
+{
+  "name": "indexador-pdf",
+  "dataSourceName": "blob-documentos",
+  "targetIndexName": "documentos-index",
+  "skillsetName": "meu-skillset",
+  "schedule": { "interval": "PT1H" }
+}
